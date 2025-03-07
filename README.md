@@ -28,4 +28,4 @@ A dynamic and responsive school website built using **HTML, CSS, JavaScript, PHP
 ## 🚀 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/wonderkids-school.git
+   https://github.com/Sujay149/wonderkids.git
