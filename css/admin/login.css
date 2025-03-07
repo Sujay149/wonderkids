@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f8f9fa;
+}
+.sign-in-container {
+    width:100%;
+    max-width: 400px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.sign-in-container img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form-control {
+    border-radius: 50px;
+}
+.form-check-input {
+    margin-top: 5px;
+}
+.btn-primary {
+    background-color: #b0463f;
+    border-color: #b0463f;
+    border-radius: 50px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 200;
+}
+.btn-primary:hover {
+    background-color: #8f2022;
+    border-color: #8f2022;
+}
+
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 200;
+}
